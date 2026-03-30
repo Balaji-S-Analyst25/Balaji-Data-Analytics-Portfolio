@@ -27,6 +27,10 @@ My Data Analytics Projects and Resume
 - Performed residual analysis  
 👉 [View Project](./Diamond_Price_Prediction.pdf)
 💻 [View Code](./Diamond_analysis.R)
+### 📊 Regression Plot
+![Regression Plot](./Residuals_Plots.jpg)
+![Regression Plot](./Scatter_plots_matrix.jpg)
+![Regression Plot](./Log_transformation.jpg)
 
 ---
 
