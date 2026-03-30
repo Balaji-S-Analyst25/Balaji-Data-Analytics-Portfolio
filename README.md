@@ -14,7 +14,7 @@ My Data Analytics Projects and Resume
 ---
 
 ## 📄 Resume
-👉 [Download Resume](./BalajiResume.pdf)
+👉 [Download Resume](./Balaji_Resume.pdf)
 
 ---
 
@@ -25,7 +25,7 @@ My Data Analytics Projects and Resume
 - Achieved R² = 0.90 after log transformation  
 - Identified multicollinearity using VIF  
 - Performed residual analysis  
-👉 [View Project](./Diamond_Price_PredictionPG.pdf)
+👉 [View Project](./Diamond_Price_Prediction.pdf)
 
 ---
 
