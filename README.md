@@ -26,6 +26,7 @@ My Data Analytics Projects and Resume
 - Identified multicollinearity using VIF  
 - Performed residual analysis  
 👉 [View Project](./Diamond_Price_Prediction.pdf)
+💻 [View Code](./Diamond_analysis.R)
 
 ---
 
@@ -35,6 +36,8 @@ My Data Analytics Projects and Resume
 - Created bar charts and pie charts  
 - Identified trends in music listening behavior  
 👉 [View Project](./Music_Preference_Analysis.pdf)
+💻 [View Code](./music_analysis.R)
+
 
 ---
 
