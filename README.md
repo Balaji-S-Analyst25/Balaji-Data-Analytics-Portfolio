@@ -31,19 +31,19 @@ My Data Analytics Projects and Resume
 
 #### 🔹 Residual Plots
 Used to check model assumptions like linearity and variance  
-![Residual Plots](./Residual_Plots.jpg)
+![Residual Plots](./Residual_Plots.jpeg)
 
 ---
 
 #### 🔹 Scatter Plot Matrix
 Used to identify relationships and multicollinearity between variables  
-![Scatter Plot Matrix](./Scatter_plot_matrix.jpg)
+![Scatter Plot Matrix](./Scatter_plot_matrix.jpeg)
 
 ---
 
 #### 🔹 Log Transformation Effect
 Improved model accuracy and reduced skewness  
-![Log Transformation](./Log_transformation.jpg)
+![Log Transformation](./Log_transformation.jpeg)
 
 ---
 
