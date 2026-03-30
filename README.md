@@ -27,10 +27,23 @@ My Data Analytics Projects and Resume
 - Performed residual analysis  
 👉 [View Project](./Diamond_Price_Prediction.pdf)
 💻 [View Code](./Diamond_analysis.R)
-### 📊 Regression Plot
-![Regression Plot](./Residuals_Plots.jpg)
-![Regression Plot](./Scatter_plots_matrix.jpg)
-![Regression Plot](./Log_transformation.jpg)
+### 📊 Regression Analysis Visualizations
+
+#### 🔹 Residual Plots
+Used to check model assumptions like linearity and variance  
+![Residual Plots](./Residual_Plots.jpg)
+
+---
+
+#### 🔹 Scatter Plot Matrix
+Used to identify relationships and multicollinearity between variables  
+![Scatter Plot Matrix](./Scatter_plot_matrix.jpg)
+
+---
+
+#### 🔹 Log Transformation Effect
+Improved model accuracy and reduced skewness  
+![Log Transformation](./Log_transformation.jpg)
 
 ---
 
