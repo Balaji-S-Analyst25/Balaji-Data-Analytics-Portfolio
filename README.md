@@ -9,12 +9,12 @@ My Data Analytics Projects and Resume
 ## 🚀 About Me
 - Passionate about data analysis and insights  
 - Strong foundation in statistics and analytics  
-- Interested in real-world problem solving using data  
+- Interested in solving real-world problems using data  
 
 ---
 
 ## 📄 Resume
-👉 [Download Resume](./Balaji_Resume.pdf)
+👉 [Download Resume](./Balaji Resume.pdf)
 
 ---
 
@@ -25,12 +25,12 @@ My Data Analytics Projects and Resume
 - Achieved R² = 0.90 after log transformation  
 - Identified multicollinearity using VIF  
 - Performed residual analysis  
-👉 [View Project](./Diamond _ Price _ Analysis.pdf)
+👉 [View Project](./Diamond_Price_Prediction PG.pdf)
 
 ---
 
 ### 🔹 Music Preference Analysis (UG Project)
-- Conducted survey-based data collection  
+- Collected primary data using surveys  
 - Applied Chi-square, Kruskal-Wallis, Mann-Whitney tests  
 - Created bar charts and pie charts  
 - Identified trends in music listening behavior  
@@ -48,9 +48,9 @@ My Data Analytics Projects and Resume
 ---
 
 ## 📫 Contact
-- Email: yourmail@gmail.com  
-- LinkedIn: your-linkedin-link  
+- 📧 Email: balajisureshbalaji@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/balaji-s-balaji  
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my GitHub profile!
