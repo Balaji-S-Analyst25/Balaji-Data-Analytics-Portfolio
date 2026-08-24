@@ -14,7 +14,7 @@ My Data Analytics Projects and Resume
 ---
 
 ## 📄 Resume
-👉 [Download Resume](./Balaji_Resume.pdf)
+👉 [Download Resume](./Balaji_ATS_Resume.pdf)
 
 ---
 
